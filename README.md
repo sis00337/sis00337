@@ -6,6 +6,5 @@
 - :book: I'm currently learning Computer Systems Technology.
 - :computer: I'm interested in Software Development, Cloud Computing, Cybersecurity, and Game Development.
 - :link: Linkedin: https://www.linkedin.com/in/mike-hwang-41421217a/
-- :link: Portfolio: https://sis00337.github.io/portfolio/
 - ⚡ Fun fact: I originally studied Architecture Engineering.
 
